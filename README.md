@@ -49,7 +49,7 @@ Usenet is a distributed discussion and file-distribution system accessed through
 - [DigitalCarnage](https://digitalcarnage.info/) - NZB indexer with periodic registration openings and API access. ([review](https://usenet-reviews.com/indexers/digitalcarnage/))
 - [NinjaCentral](https://ninjacentral.co.za/) - NZB indexer using an invite-based registration model.
 - [NZBPlanet](https://nzbplanet.net/) - NZB indexer with an open registration option and API access.
-- [omgwtfnzbs](https://omgwtfnzbs.me/) - NZB indexer that uses periodic registration openings. ([review](https://usenet-reviews.com/indexers/omgwtfnzbs/))
+- [omgwtfnzbs](https://omgwtfnzbs.org/) - NZB indexer that uses periodic registration openings. ([review](https://usenet-reviews.com/indexers/omgwtfnzbs/))
 
 ## Providers & Block Accounts
 
